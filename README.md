@@ -1,8 +1,10 @@
-- #sobre mim
+# Sobre mim
 
 -👋 olá meu nome é  @marianunes2006
-- 👀 I’interesse  in ...
-- 🌱 I’m currently learning ...
+
+-👋meu email de contato é *mara.nunes.arruda@escola.pr.gov.br*
+- 👀 eu estou interessada em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
